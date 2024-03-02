@@ -2,7 +2,7 @@
 ¡Bienvenido al repositorio de ejercicios prácticos de programación!
 
 ## Descripción
-En este repositorio encontrarás una colección de ejercicios prácticos que he creado personalmente para practicar diferentes lenguajes de programación. La idea detrás de estos ejercicios es proporcionar desafíos que abarquen varios aspectos de la programación, desde conceptos básicos hasta problemas más avanzados.
+En este repositorio encontrarás una colección de ejercicios prácticos que he realizado personalmente para practicar diferentes lenguajes de programación. La idea detrás de estos ejercicios es mostrar diferentes desafíos que abarcan varios aspectos de la programación, desde conceptos básicos hasta problemas más avanzados.
 Los ejercicios cubren una amplia gama de lenguajes de programación, incluyendo:
 
 - HTML
